@@ -1,9 +1,12 @@
-# 认知建模基础（26春）课程作业
+# Cognitive Modeling, an Exercise
 
-**文件介绍**
-- Assignment 是公布的作业内容
+**Assignment**
+- Assignment.pdf 是公布的作业内容, Assignment.md是源码
 - data.csv 分析的数据（虚拟数据）
-- main.ipynb + helper.py 是目前作业答案（非终稿）
-- ai_solution.ipynb 是 GPT-5.3-Codex-Medium根据Assignment.md撰写的答案，仅供参考
+- 考核内容包括：RW模型，MLE模型拟合和比较，MCMC模型拟合
+
+**Solution**
+- main.ipynb + helper.py 是目前作业答案（仍旧施工中）
+- ai_solution.ipynb 是GPT-5.3-Codex-Medium生成，input是Assignment.md，仅供参考
 
 
